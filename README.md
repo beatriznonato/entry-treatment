@@ -11,7 +11,9 @@ Se usúario digitar qualquer valor que não seja um número, exibir: "Valor inv�
 
 Se clicar em CANCELAR, exibir: "Nenhum valor digitado".
 
-(.trim é tratamento de entrada: começa e termina com caractere válido) 
+```
+(.trim() é tratamento de entrada: começa e termina com caractere válido) 
+```
 
 #### Diferença de crase e aspas duplas.
 ```
