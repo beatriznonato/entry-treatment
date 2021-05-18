@@ -1,23 +1,24 @@
-# Aplicação
-Usuário deve digitar um número.
+# Entry Treatment
 
-Se número for maior que 15, exibir: "Número maior que 15";
+### Description
 
-Se o número for menor que 15, exibir: "Número menor que 15";
+The user must enter a number.
 
-Se número for igual a 15, exibir: "Número igual á 15";
+If number is greater than 15, display: <i>"Number greater than 15"</i>;
 
-Se usúario digitar qualquer valor que não seja um número, exibir: "Valor inválido";
+If the number is less than 15, display: <i>"Number less than 15"</i>;
 
-Se clicar em CANCELAR, exibir: "Nenhum valor digitado".
+If number equal to 15, display: <i>"Number equal to 15"</i>;
 
-```
-(.trim() é tratamento de entrada: começa e termina com caractere válido) 
-```
+If the user enters any value other than a number, display: <i>"Invalid value"</i>;
 
-#### Diferença de crase e aspas duplas.
-```
-`` - template string
+If you click CANCEL, display: <i>"No value entered"</i>.
 
-" " - just string
-```
+## How to Run
+- Clone this repository
+- Open the project folder
+- Double-click on the index.html file, as soon afterwards you will be redirected to the browser with the application running.
+
+### License
+
+MIT © Beatriz Nonato :woman_technologist:
